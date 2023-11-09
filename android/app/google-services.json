@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "230123887200",
+    "project_id": "restoration-c3993",
+    "storage_bucket": "restoration-c3993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230123887200:android:bc2e25684fee4a49d00105",
+        "android_client_info": {
+          "package_name": "com.example.royal_restoration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230123887200-6d89vs9d9dat4f3hnk57j816ndkeq91q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjur0okv5SunWIn5ppmmEQmz3PDDW1PDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230123887200-6d89vs9d9dat4f3hnk57j816ndkeq91q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "230123887200-0ttje7ob7v9l7vp2h8dmc1s4d5iqnoi5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restorationProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
